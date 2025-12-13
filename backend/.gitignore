@@ -1,0 +1,35 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ASP.NET temp data
+wwwroot/lib/
+
+# EF Core Migrations snapshot files are allowed, but database files are not
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# Dotnet tool artifacts
+*.nuget.props
+*.nuget.targets
+project.lock.json
+
+# Auto-generated cache files
+staticwebassets.build.json.cache
+*.cache.json
+
